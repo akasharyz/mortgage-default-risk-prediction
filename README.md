@@ -91,5 +91,4 @@ The top predictors were, in order: `EXT_SOURCE_MEAN`, `EXT_SOURCE_COUNT`, educat
 ```
 ├── Home_Credit_ML.ipynb        # Full analysis: EDA → feature engineering → modeling → evaluation
 ├── README.md              # This file
-└── data/                  # application_train.csv (not included — see Dataset section for source)
 ```
